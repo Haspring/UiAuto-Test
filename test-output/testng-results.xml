@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="9828" started-at="2016-05-25T05:48:02Z" finished-at="2016-05-25T05:48:11Z">
+  <suite name="Default suite" duration-ms="11115" started-at="2016-05-27T06:20:42Z" finished-at="2016-05-27T06:20:53Z">
     <groups>
     </groups>
-    <test name="test12" duration-ms="9828" started-at="2016-05-25T05:48:02Z" finished-at="2016-05-25T05:48:11Z">
+    <test name="Default test" duration-ms="11115" started-at="2016-05-27T06:20:42Z" finished-at="2016-05-27T06:20:53Z">
       <class name="TestCases.BaiduSearch">
-        <test-method status="PASS" signature="test()[pri:0, instance:TestCases.BaiduSearch@4157f54e]" name="test" duration-ms="9819" started-at="2016-05-25T13:48:02Z" finished-at="2016-05-25T13:48:11Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:TestCases.BaiduSearch@1e3380c5]" name="test" duration-ms="11101" started-at="2016-05-27T14:20:42Z" finished-at="2016-05-27T14:20:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- TestCases.BaiduSearch -->
-    </test> <!-- test12 -->
-  </suite> <!-- Suite1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
